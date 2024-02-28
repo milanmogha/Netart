@@ -1,0 +1,753 @@
+@media only screen and (min-width:2000px)  and (max-width:4000px){
+  .logo-container{
+      height: auto;
+      width: auto;
+      display: flex;
+      margin-left: 37%;
+    }
+    
+    .logo{
+      width: 500px;
+    }
+    
+    .main-a-a{
+      display: flex;
+      justify-content: center;
+      width: 35%;
+    }
+    
+    .main-a{
+      display: flex;
+      flex-direction: row;
+    }
+    .png-1{
+      width: 520px;
+    }
+    .main-a-b{
+      width: 65%;
+    }
+    
+    .main-a-b h3{
+      font-size: 25px;
+      font-weight: 800;
+      margin-bottom: 20px;
+    }
+    .main-a-b ul{
+      margin-right: 350px;
+      font-size: 20px;
+      margin-left: 50px;
+    }
+    
+    .png-2{
+      margin-top: 15px;
+      width: 1200px;
+    }
+    .award-2018{
+      margin-right: 300px;
+      font-size: 18px;
+      font-weight: 600;
+      word-spacing: 3px;
+    }
+    
+    .main-b{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+    }
+    
+    .main-b h5{
+      word-spacing: 5px;
+      margin-top: 30px;
+      margin-bottom: 20px;
+      font-size: 20px;
+      font-weight: 600;
+    }
+    .png-3{
+      width: 1500px;
+      margin-bottom: 20px;
+    }
+    .main-b p{
+      font-size: 18px;
+      font-weight: 600;
+      word-spacing: 5px;
+      margin-bottom: 12px;
+    }
+    
+    hr{
+      border: none;
+      height: 2px;
+      background-color: red;
+      color: red;
+      width: 96%;
+    }
+    
+    .footer{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+    
+    .footer h4{
+      margin-bottom: 20px;
+      word-spacing: 5px;
+      font-size: 18px;
+      margin-top: 20px;
+      font-weight: 900;
+    }
+    
+    .footer span{
+      color: red;
+    }
+    .footer h5{
+      font-size: 18px;
+    }
+    
+    .contact{
+      margin-top: 10px;
+      margin-bottom: 5px;
+      width: 98%;
+      height: 10vh;
+      background-color: red;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .contact p{
+      font-size: 20px;
+      font-weight: 500;
+      color: white;
+    }
+    .fml{
+      margin-left: 300px;
+    } 
+  }
+
+@media only screen and (min-width:1350px) and (max-width:1660px){
+    .logo-container{
+        height: auto;
+        width: auto;
+        display: flex;
+        margin-left: 35%;
+      }
+      
+      .logo{
+        width: 50%;
+      }
+      
+      .main-a-a{
+        display: flex;
+        justify-content: center;
+        width: 35%;
+      }
+      
+      .main-a{
+        display: flex;
+        flex-direction: row;
+      }
+      .png-1{
+        width: 300px;
+      }
+      .main-a-b{
+        width: 65%;
+      }
+      
+      .main-a-b h3{
+        font-size: 17px;
+        font-weight: 800;
+        margin-bottom: 20px;
+      }
+      .main-a-b ul{
+        margin-right: 40px;
+        margin-left: 50px;
+      }
+      
+      .png-2{
+        margin-top: 15px;
+        width: 800px;
+      }
+      .award-2018{
+        margin-right: 30px;
+        font-weight: 600;
+        word-spacing: 3px;
+      }
+      
+      .main-b{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        flex-direction: column;
+      }
+      
+      .main-b h5{
+        margin-top: 30px;
+        margin-bottom: 20px;
+        font-size: 16px;
+        font-weight: 600;
+      }
+      .png-3{
+        width: 1300px;
+        margin-bottom: 20px;
+      }
+      .main-b p{
+        font-size: 18px;
+        font-weight: 600;
+        word-spacing: 5px;
+        margin-bottom: 12px;
+      }
+      
+      hr{
+        border: none;
+        height: 2px;
+        background-color: red;
+        color: red;
+        width: 98%;
+      }
+      
+      .footer{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+      }
+      
+      .footer h4{
+        margin-bottom: 20px;
+        word-spacing: 5px;
+        font-size: 18px;
+        margin-top: 20px;
+        font-weight: 900;
+      }
+      
+      .footer span{
+        color: red;
+      }
+      .footer h5{
+        font-size: 15px;
+      }
+      
+      .contact{
+        margin-top: 10px;
+        margin-bottom: 5px;
+        height: 8vh;
+        width: 90vw;
+        background-color: red;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .contact p{
+        font-size: 20px;
+        font-weight: 600;
+        color: white;
+      }
+      .fml{
+        margin-left: 200px;
+    }
+}
+
+@media only screen and (min-width:1000px) and (max-width:1350px){
+  .logo-container{
+    height: auto;
+    width: auto;
+    display: flex;
+    margin-left: 35%;
+  }
+  
+  .logo{
+    width: 50%;
+  }
+  
+  .main-a-a{
+    display: flex;
+    justify-content: center;
+    width: 35%;
+  }
+  
+  .main-a{
+    display: flex;
+    flex-direction: row;
+  }
+  .png-1{
+    width: 400px;
+  }
+  .main-a-b{
+    width: 65%;
+  }
+  
+  .main-a-b h3{
+    font-size: 17px;
+    font-weight: 800;
+    margin-bottom: 20px;
+  }
+  .main-a-b ul{
+    margin-left: 50px;
+  }
+  
+  .png-2{
+    margin-top: 15px;
+    width: 600px;
+  }
+  .award-2018{
+    font-weight: 600;
+    word-spacing: 3px;
+  }
+  
+  .main-b{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .main-b h5{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .png-3{
+    width: 1000px;
+    margin-bottom: 20px;
+  }
+  .main-b p{
+    font-size: 18px;
+    font-weight: 600;
+    word-spacing: 5px;
+    margin-bottom: 12px;
+  }
+  
+  hr{
+    border: none;
+    height: 2px;
+    background-color: red;
+    color: red;
+    width: 98%;
+  }
+  
+  .footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0px 20px;
+  }
+  
+  .footer h4{
+    margin-bottom: 20px;
+    word-spacing: 5px;
+    font-size: 18px;
+    margin-top: 20px;
+    font-weight: 900;
+  }
+  
+  .footer span{
+    color: red;
+  }
+  .footer h5{
+    font-size: 15px;
+  }
+  
+  .contact{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    height: 8vh;
+    width: 95vw;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .contact p{
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+  }
+  .fml{
+    margin-left: 100px;
+}
+}
+
+@media only screen and (min-width:700px) and (max-width:1000px){
+  .logo-container{
+    height: auto;
+    width: auto;
+    display: flex;
+    margin-left: 35%;
+  }
+  
+  .logo{
+    width: 50%;
+  }
+  
+  .main-a-a{
+    display: flex;
+    justify-content: center;
+    width: 35%;
+  }
+  
+  .main-a{
+    display: flex;
+    flex-direction: row;
+  }
+  .png-1{
+    width: 300px;
+  }
+  .main-a-b{
+    width: 65%;
+  }
+  
+  .main-a-b h3{
+    font-size: 17px;
+    font-weight: 800;
+    margin-bottom: 20px;
+  }
+  .main-a-b ul{
+    margin-right: 10px;
+    margin-left: 30px;
+  }
+  
+  .png-2{
+    margin-top: 15px;
+    width: 90%;
+  }
+  .award-2018{
+    font-weight: 600;
+    word-spacing: 3px;
+  }
+  
+  .main-b{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    text-align: center;
+    margin: 0px 10px;
+  }
+  
+  .main-b h5{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .png-3{
+    width: 600px;
+    margin-bottom: 20px;
+  }
+  .main-b p{
+    font-size: 18px;
+    font-weight: 600;
+    word-spacing: 5px;
+    margin-bottom: 12px;
+  }
+  
+  hr{
+    border: none;
+    height: 2px;
+    background-color: red;
+    color: red;
+    width: 98%;
+  }
+  
+  .footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0px 10px;
+  }
+  
+  .footer h4{
+    margin-bottom: 20px;
+    word-spacing: 5px;
+    font-size: 18px;
+    margin-top: 20px;
+    font-weight: 900;
+  }
+  
+  .footer span{
+    color: red;
+  }
+  .footer h5{
+    font-size: 15px;
+  }
+  
+  .contact{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    height: 8vh;
+    width: 95vw;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .contact p{
+    font-size: 15px;
+    font-weight: 600;
+    color: white;
+  }
+  .fml{
+    margin-left: 50px;
+}
+}
+
+@media only screen and (min-width:400px) and (max-width:700px){
+  .logo-container{
+    height: auto;
+    width: auto;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .logo{
+    width: 80%;
+  }
+  .main-a{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .main-a-a{
+    display: flex;
+    justify-content: center;
+    width: 35%;
+  }
+  .png-1{
+    width: 300px;
+    height: 400px;
+  }
+  .main-a-b{
+    width: 65%;
+  }
+  
+  .main-a-b h3{
+    font-size: 17px;
+    font-weight: 800;
+    margin-bottom: 20px;
+  }
+  
+  .png-2{
+    margin-top: 15px;
+    width: 300px;
+  }
+  .award-2018{
+    font-weight: 600;
+    word-spacing: 3px;
+  }
+  
+  .main-b{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    text-align: center;
+    margin: 0px 10px;
+  }
+  
+  .main-b h5{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .png-3{
+    height: auto;
+    width: 350px;
+    margin-bottom: 20px;
+  }
+  .main-b p{
+    font-size: 18px;
+    font-weight: 600;
+    word-spacing: 5px;
+    margin-bottom: 12px;
+  }
+  
+  hr{
+    border: none;
+    height: 2px;
+    background-color: red;
+    color: red;
+    width: 98%;
+  }
+  
+  .footer{
+    margin: 0px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .footer h4{
+    margin-bottom: 20px;
+    word-spacing: 5px;
+    font-size: 18px;
+    margin-top: 20px;
+    font-weight: 900;
+  }
+  
+  .footer span{
+    color: red;
+  }
+  .footer h5{
+    font-size: 15px;
+  }
+  
+  .contact{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    height: 10vh;
+    width: 95vw;
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .contact p{
+    font-size: 15px;
+    font-weight: 600;
+    color: white;
+  }
+}
+                                                             /* screen size 400 px and less  */
+@media only screen and (max-width:400px){
+  .logo-container{
+    height: auto;
+    width: auto;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .logo{
+    width: 100%;
+  }
+  .main-a{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .main-a-a{
+    display: flex;
+    justify-content: center;
+    width: 35%;
+  }
+  .png-1{
+    width: 100px;
+    height: 200px;
+  }
+  .main-a-b{
+    width: 65%;
+  }
+  
+  .main-a-b h3{
+    font-size: 17px;
+    font-weight: 800;
+    margin-bottom: 20px;
+  }
+  
+  .png-2{
+    margin-top: 15px;
+    width: 200px;
+  }
+  .award-2018{
+    font-weight: 600;
+    word-spacing: 3px;
+  }
+  
+  .main-b{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    text-align: center;
+    margin: 0px 10px;
+  }
+  
+  .main-b h5{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .png-3{
+    height: auto;
+    width: 250px;
+    margin-bottom: 20px;
+  }
+  .main-b p{
+    font-size: 18px;
+    font-weight: 600;
+    word-spacing: 5px;
+    margin-bottom: 12px;
+  }
+  
+  hr{
+    border: none;
+    height: 2px;
+    background-color: red;
+    color: red;
+    width: 98%;
+  }
+  
+  .footer{
+    margin: 0px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .footer h4{
+    margin-bottom: 20px;
+    word-spacing: 5px;
+    font-size: 18px;
+    margin-top: 20px;
+    font-weight: 900;
+  }
+  
+  .footer span{
+    color: red;
+  }
+  .footer h5{
+    font-size: 15px;
+  }
+  
+  .contact{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    height: 10vh;
+    width: 95vw;
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .contact p{
+    font-size: 15px;
+    font-weight: 600;
+    color: white;
+  }
+}

@@ -1,0 +1,139 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: #f5f5dc; /* light yellowish color */
+  background-image: linear-gradient(to bottom, #ebe9e9, #fafa95); /* white to light yellow */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+@media only screen and (min-width:1660px) and (max-width:2000px){
+  .logo-container{
+    height: auto;
+    width: auto;
+    display: flex;
+    margin-left: 35%;
+  }
+  
+  .logo{
+    width: 400px;
+  }
+  
+  .main-a-a{
+    display: flex;
+    justify-content: center;
+    width: 35%;
+  }
+  
+  .main-a{
+    display: flex;
+    flex-direction: row;
+  }
+  .png-1{
+    width: 490px;
+  }
+  .main-a-b{
+    width: 65%;
+  }
+  
+  .main-a-b h3{
+    font-size: 18px;
+    font-weight: 800;
+    margin-bottom: 20px;
+  }
+  .main-a-b ul{
+    margin-right: 100px;
+    margin-left: 50px;
+  }
+  
+  .png-2{
+    margin-top: 15px;
+    width: 1000px;
+  }
+  .award-2018{
+    margin-right: 100px;
+    font-weight: 600;
+    word-spacing: 3px;
+  }
+  
+  .main-b{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0px 10px;
+  }
+  
+  .main-b h5{
+    word-spacing: 5px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .png-3{
+    width: 1500px;
+    margin-bottom: 20px;
+  }
+  .main-b p{
+    font-size: 18px;
+    font-weight: 600;
+    word-spacing: 5px;
+    margin-bottom: 12px;
+  }
+  
+  hr{
+    border: none;
+    height: 2px;
+    background-color: red;
+    color: red;
+    width: 96%;
+  }
+  
+  .footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0px 20px;
+  }
+  
+  .footer h4{
+    margin-bottom: 20px;
+    word-spacing: 5px;
+    font-size: 18px;
+    margin-top: 20px;
+    font-weight: 900;
+  }
+  
+  .footer span{
+    color: red;
+  }
+  .footer h5{
+    font-size: 18px;
+  }
+  
+  .contact{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    width: 98%;
+    height: 10vh;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .contact p{
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+  }
+  .fml{
+    margin-left: 300px;
+  } 
+}
+
